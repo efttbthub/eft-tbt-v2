@@ -26,11 +26,6 @@ Nous ne pouvons pas changer une expérience vécue par le passé, mais nous pouv
 ![](../images/rehana-webster-bandeau.jpg)
 
 
-## Les Groupes
-
-> Expliquer ce que sont les *Groupes*
-
-
 
 ## SSPT (Symptôme de Stress Post Traumatique)
 
