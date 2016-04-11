@@ -1,0 +1,250 @@
+---
+layout: pretty-print-compress
+---
+<html lang="{{ site.locale }}">
+{% include head.liquid %}
+	<body id="home-page">
+{% include facebook-sdk.liquid %}
+
+		<!--
+		========================================== -->
+		<nav id="tf-menu" class="navbar navbar-default navbar-fixed-top">
+			<div class="container">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+						<span class="sr-only">Afficher ou cacher le menu</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<a class="navbar-brand animated pulse" href="{{ site.baseurl }}">EFT–TBT</a></div>
+
+				<!-- Collect the nav links, forms, and other content for toggling -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav navbar-right">
+						<li><a class="page-scroll" href="#tf-presentation" >Présentation</a></li>
+						<li><a class="page-scroll" href="#tf-techniques"   >Techniques</a></li>
+						<li><a class="page-scroll" href="#tf-applications" >Applications</a></li>
+						<li><a class="page-scroll" href="#tf-ateliers"     >Ateliers</a></li>
+						<li><a class="page-scroll" href="#tf-contact"      >Contact</a></li>
+					</ul>
+				</div><!-- /.navbar-collapse -->
+			</div><!-- /.container-fluid -->
+		</nav>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-accueil" class="text-center">
+			<div class="container-fluid overlay">
+				<div class="row">
+					<div class="col-md-6 col-md-offset-3 content">
+						{{ content }}
+						<a href="#tf-presentation" class="fa fa-angle-down page-scroll hidde­n-print"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-presentation" class="hidde­n-print">
+			<div class="container">
+				<div class="row">
+					<div class="col-xs-6 col-xs-offset-3 col-md-3 col-md-pull-1 text-center" style="margin-bottom: 50px;">
+						<img src="images/isabelle-levrat.jpg" alt="Isabelle Levrat" style="width:100%;" class="animated fadeInUpBig" />
+					</div>
+					<div class="col-xs-12 col-md-6 col-md-o­ffset-6 ">
+						<div class="section-title">
+{% for thispage in site.pages %}
+	{% if thispage.title == "présentation" %}
+		{{ thispage.content | markdownify }}
+	{% endif %}
+{% endfor %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-techniques" class="text-center hidde­n-print">
+			<div class="overlay">
+				<div class="container">
+					<div class="section-title center">
+						<h2>Les <strong>techniques</strong></h2>
+						<div class="line">
+							<hr />
+						</div>
+					</div>
+					<div class="row">
+{% assign NbCat-techniques = 0 %}
+{% for thispage in site.pages %}
+	{% if thispage.category == "techniques" %}
+		{% assign NbCat-techniques = NbCat-techniques | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% if NbCat-techniques ==  1 %}{% assign NbColSM-techniques = 12 %}{% endif %}
+{% if NbCat-techniques ==  2 %}{% assign NbColSM-techniques = 6  %}{% endif %}
+{% if NbCat-techniques ==  3 %}{% assign NbColSM-techniques = 4  %}{% endif %}
+{% if NbCat-techniques ==  4 %}{% assign NbColSM-techniques = 3  %}{% endif %}
+{% if NbCat-techniques ==  5 %}{% assign NbColSM-techniques = 4  %}{% endif %}
+{% if NbCat-techniques ==  6 %}{% assign NbColSM-techniques = 4  %}{% endif %}
+{% if NbCat-techniques ==  7 %}{% assign NbColSM-techniques = 4  %}{% endif %}
+{% if NbCat-techniques ==  8 %}{% assign NbColSM-techniques = 3  %}{% endif %}
+{% if NbCat-techniques ==  9 %}{% assign NbColSM-techniques = 4  %}{% endif %}
+{% if NbCat-techniques >= 10 %}{% assign NbColSM-techniques = 3  %}{% endif %}
+
+{% for thispage in site.pages %}
+	{% if thispage.category == "techniques" %}
+						<a href="{{ site.baseurl }}{{ thispage.url }}">
+							<div class="col-sm-{{ NbColSM-techniques }}">
+								<div class="item">
+									<img src="{{ thispage.vignette.image }}" alt="..." class="img-circle" />
+									<h3>{{ thispage.vignette.titre-1 }}</h3>
+									<p>{{ thispage.vignette.titre-2 }}</p>
+								</div>
+							</div>
+						</a>
+	{% endif %}
+{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-applications" class="text-center hidde­n-print">
+			<div class="overlay">
+				<div class="container">
+					<div class="section-title center">
+						<h2>Les <strong>applications</strong></h2>
+						<div class="line">
+							<hr />
+						</div>
+					</div>
+					<div class="row">
+{% assign NbCat-applications = 0 %}
+{% for thispage in site.pages %}
+	{% if thispage.category == "applications" %}
+		{% assign NbCat-applications = NbCat-applications | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% if NbCat-applications ==  1 %}{% assign NbColSM-applications = 12 %}{% endif %}
+{% if NbCat-applications ==  2 %}{% assign NbColSM-applications = 6  %}{% endif %}
+{% if NbCat-applications ==  3 %}{% assign NbColSM-applications = 4  %}{% endif %}
+{% if NbCat-applications ==  4 %}{% assign NbColSM-applications = 3  %}{% endif %}
+{% if NbCat-applications ==  5 %}{% assign NbColSM-applications = 4  %}{% endif %}
+{% if NbCat-applications ==  6 %}{% assign NbColSM-applications = 4  %}{% endif %}
+{% if NbCat-applications ==  7 %}{% assign NbColSM-applications = 4  %}{% endif %}
+{% if NbCat-applications ==  8 %}{% assign NbColSM-applications = 3  %}{% endif %}
+{% if NbCat-applications ==  9 %}{% assign NbColSM-applications = 4  %}{% endif %}
+{% if NbCat-applications >= 10 %}{% assign NbColSM-applications = 3  %}{% endif %}
+
+{% for thispage in site.pages %}
+	{% if thispage.category == "applications" %}
+						<a href="{{ site.baseurl }}{{ thispage.url }}">
+							<div class="col-sm-{{ NbColSM-applications }}">
+								<div class="item">
+									<img src="{{ thispage.vignette.image }}" alt="..." class="img-circle" />
+									<h3>{{ thispage.vignette.titre-1 }}</h3>
+									<p>{{ thispage.vignette.titre-2 }}</p>
+								</div>
+							</div>
+						</a>
+	{% endif %}
+{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-ateliers" class="text-center hidde­n-print">
+			<div class="overlay">
+				<div class="container">
+					<div class="section-title center">
+						<h2>Les <strong>ateliers</strong></h2>
+						<div class="line">
+							<hr />
+						</div>
+					</div>
+					<div class="row">
+{% assign NbCat-ateliers = 0 %}
+{% for thispage in site.pages %}
+	{% if thispage.category == "ateliers" %}
+		{% assign NbCat-ateliers = NbCat-ateliers | plus: 1 %}
+	{% endif %}
+{% endfor %}
+
+{% if NbCat-ateliers ==  1 %}{% assign NbColSM-ateliers = 12 %}{% endif %}
+{% if NbCat-ateliers ==  2 %}{% assign NbColSM-ateliers = 6  %}{% endif %}
+{% if NbCat-ateliers ==  3 %}{% assign NbColSM-ateliers = 4  %}{% endif %}
+{% if NbCat-ateliers ==  4 %}{% assign NbColSM-ateliers = 3  %}{% endif %}
+{% if NbCat-ateliers ==  5 %}{% assign NbColSM-ateliers = 4  %}{% endif %}
+{% if NbCat-ateliers ==  6 %}{% assign NbColSM-ateliers = 4  %}{% endif %}
+{% if NbCat-ateliers ==  7 %}{% assign NbColSM-ateliers = 4  %}{% endif %}
+{% if NbCat-ateliers ==  8 %}{% assign NbColSM-ateliers = 3  %}{% endif %}
+{% if NbCat-ateliers ==  9 %}{% assign NbColSM-ateliers = 4  %}{% endif %}
+{% if NbCat-ateliers >= 10 %}{% assign NbColSM-ateliers = 3  %}{% endif %}
+
+{% for thispage in site.pages %}
+	{% if thispage.category == "ateliers" %}
+						<a href="{{ site.baseurl }}{{ thispage.url }}">
+							<div class="col-sm-{{ NbColSM-ateliers }}">
+								<div class="item">
+									<img src="{{ thispage.vignette.image }}" alt="..." class="img-responsive" />
+									<h3>{{ thispage.vignette.titre-1 }}</h3>
+									<p>{{ thispage.vignette.titre-2 }}</p>
+								</div>
+							</div>
+						</a>
+	{% endif %}
+{% endfor %}
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+		<!--
+		========================================== -->
+		<div id="tf-contact" class="text-center">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2">
+						<div class="section-title center">
+
+{% for thispage in site.pages %}
+	{% if thispage.title == "contact" %}
+		{{ thispage.content | markdownify }}
+	{% endif %}
+{% endfor %}
+
+{% include facebook-button-box_count.liquid %}
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+{% include footer.liquid %}
+	</body>
+</html>

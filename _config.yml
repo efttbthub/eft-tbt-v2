@@ -1,0 +1,44 @@
+
+title: "EFT–TBT — Isabelle Levrat"
+description: EFT–TBT
+keywords: "EFT, Emotional Freedom Technique, TBT, Trauma Buster Technique"
+author: "Isabelle Levrat, Nicolas Jeanmonod"
+
+locale: fr
+
+url: "http://efttbthub.github.io"
+baseurl: "/eft-tbt-v1-test"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: true
+
+exclude: [ "CNAME", "README.md", "Gemfile", "Gemfile.lock" ]
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+gems:
+  - jekyll-sitemap
+
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: []
+  ignore:
+    envs: []
+  blanklines: true
+  profile: false
+  startings: []
+
