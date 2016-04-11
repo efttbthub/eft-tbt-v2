@@ -6,8 +6,8 @@ author: "Isabelle Levrat, Nicolas Jeanmonod"
 
 locale: fr
 
-url: "http://efttbthub.github.io"
-baseurl: "/eft-tbt-v1-test"
+url: "http://eft-tbt.com/"
+baseurl: ""
 
 markdown: kramdown
 kramdown:
