@@ -28,5 +28,5 @@ Cette technique fabuleuse de *l’EFT* n’est autre que le lien entre le corps 
 Je travaille actuellement pour le monde de l’entreprise et pour les particuliers que j’accompagne – individuellement ou en groupe – dans un processus basé sur la Confiance et le Respect, visant le Mieux-être, Autonomie, et Atteintes d’objectifs .
 
 {: .align-center }
-❧
+<i class="fa fa-envira" aria-hidden="true"></i>
 

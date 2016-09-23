@@ -27,4 +27,4 @@ Au préalable, nous travaillerons ensemble sur vos besoins afin d’adapter au m
 Demande de renseignements à <mailto:eft.tbt@gmail.com>
 
 {: .align-center }
-❧
+<i class="fa fa-envira" aria-hidden="true"></i>
