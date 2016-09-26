@@ -12,8 +12,12 @@ published: true
 
 Isabelle Levrat
 
-Centre Périnatalité et Famille, 5 chemin Edouard-Tavan 1206 Genève
- 
+Centre Périnatalité et Famille
+
+5 chemin Edouard-Tavan
+
+1206 Genève
+
 <i class="fa fa-mobile"></i> Suisse : 078 628 37 82
 
 <i class="fa fa-mobile"></i> France : 06 72 22 09 12
