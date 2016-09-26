@@ -25,5 +25,3 @@ Centre Périnatalité et Famille
 [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com)
 
 <i class="fa fa-envira" aria-hidden="true"></i>
-
-{% include datedechoix.liquid %}
