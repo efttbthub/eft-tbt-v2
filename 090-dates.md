@@ -45,20 +45,7 @@ Inscription obligatoire car places limitées par mail :
 <eft.tbt@gmail.com>
 
 
-### Conférence mai 2016
 
-19 h 30 – 21 h
-date à confirmer
-
-Synergie de deux approches complètement différentes, mais tellement complémentaires : La Numérologie et l’EFT appliquées aux domaines du mieux-être.
-
-En effet, lorsque l’on se sent bloqué dans une situation à répétition, ou que nos projets stagnent, que nos comportements ou émotions ne nous ressemblent pas, il devient difficile d’avancer.
-
-Nous vous proposons, Numhira et moi-même, une conférence au cours de laquelle vous pourrez découvrir la connexion entre la numérologie , qui grâce à vos chiffres, va détecter le problème assez rapidement, et vous en faire prendre conscience. Puis le travail en EFT qui va permettre de débloquer le problème et le libérer à tous les niveaux de votre être.
-
-Deux ateliers vous seront ensuite proposés, en numérologie et en EFT pour vous permettre d’élargir votre champ d’actions sur votre vie.
-
-L’inscription à la conférence est vivement recommandée car places limitées.
 
 
 
@@ -134,4 +121,3 @@ IBAN : CH74 0900 0000 1494 4584 1
 
 
 {% include facebook-button-box_count.liquid %}
-
