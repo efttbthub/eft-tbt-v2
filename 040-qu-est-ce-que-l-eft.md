@@ -36,7 +36,7 @@ Et en même temps, on tapote des points précis sur le visage et clavicule. C’
 
 [VENEZ L’ESSAYER !](../dates/)
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 [Téléchargez les points (PDF)](../fichiers/points-eft.pdf)
 
