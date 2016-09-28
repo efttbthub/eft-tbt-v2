@@ -18,7 +18,8 @@ Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentatio
 
 Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un groupe en EFT-TBT sur un thème précis, ou pour tout renseignement, il vous suffit de m’envoyer un message à l’adresse suivante : [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com).
 
-*Isabelle*
+                                               *Isabelle*
+
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 {: .small .margin-top-70 }
