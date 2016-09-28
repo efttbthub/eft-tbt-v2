@@ -22,5 +22,6 @@ Centre Périnatalité et Famille
 
 [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com)
 
-<i class="fa fa-envira" aria-hidden="true"></i>
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrenchSmall.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+
+<i class="fa fa-envira" aria-hidden="true"></i>

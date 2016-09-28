@@ -23,6 +23,10 @@ Nous ne pouvons pas changer une expérience vécue par le passé, mais nous pouv
 [Certification Isabelle Levrat, Geneva, Switzerland](http://traumabustertechnique.com/tbters/)
 
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+
+
+
+
 ![](../images/rehana-webster-bandeau.jpg)
 
 

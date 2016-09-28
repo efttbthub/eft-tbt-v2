@@ -18,9 +18,8 @@ Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentatio
 
 Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un groupe en EFT-TBT sur un thème précis, ou pour tout renseignement, il vous suffit de m’envoyer un message à l’adresse suivante : [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com).
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
-{: .align-right .margin-right-70 }
 *Isabelle*
+<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 {: .small .margin-top-70 }
 *Si vous suivez un traitement médicamenteux, seul votre médecin est compétent pour le modifier ou l'arrêter et ceci, même si vous constatez une nette amélioration de votre état.*
