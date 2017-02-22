@@ -28,8 +28,7 @@ Nous ne pouvons pas changer une expérience vécue par le passé, mais nous pouv
 
 
 
-{: style="width:100%;" }
-![Bandeau traumabustertechnique.com](../images/rehana-webster-bandeau.jpg)
+![Bandeau traumabustertechnique.com](../images/rehana-webster-bandeau.jpg){: style="width:100%;" }
 
 
 
