@@ -34,6 +34,7 @@ Elle a formé plus de 200 médecins, infirmiers, psychologues et psychothérapeu
 > « Tout évènement provoquant une réaction corporelle négative ».
 
 Il peut s’agir de paroles qui vous ont été adressées, d’un évènement dont vous avez été témoin, d’un évènement choquant, d’un accident que vous avez eu ou toute autre chose à laquelle vous réagissez négativement C’est un évènement qui est subit, qui crée des blessures ou qui menace la sécurité ou la vie,  et devant lequel l'individu éprouve des sentiments intenses de peur, d'horreur et/ou d'impuissance.
+<!-- [États de stress post-traumatique : définition, symptôme, diagnostique (DSM-5)](../fichiers/DSM5.pdf) PDF -->
 
 
 ## 3. Qu’est-ce qu’un symptôme de stress post-traumatique ?
