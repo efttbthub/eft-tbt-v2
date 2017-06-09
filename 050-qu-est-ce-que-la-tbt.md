@@ -74,7 +74,7 @@ Même si lorsque c’est un peu ce que l’on peut ressentir après avoir expér
 ## 8. Comment pratiquer la TBT ?
 
 - En séance individuelle.
-- En groupe, sur un thème précis, commun, tels que victimes d’un même attentat, accident, ou catastrophe naturelle.
+- En groupe, sur des thèmes précis, communs, tels que victimes d’un même attentat, accident, ou catastrophe naturelle.
 - En devenant praticien TBT (voir Formation pour devenir Praticien certifié TBT) Renseignement à <eft.tbt@gmail.com>.
 
 L’importance de s’adresser à un praticien certifié en TBT ?
