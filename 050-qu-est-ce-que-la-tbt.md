@@ -26,7 +26,7 @@ Trauma Buster Technique est une technique d’effondrement du trauma. Cette mét
 Alors qu’elle travaillait avec le système carcéral en Nouvelle Zélande, Rehana Webster a développé pendant plus de 10 ans l’efficacité de cet outil, en travaillant continuellement face à une population d’individus aux traumas majeurs et complexes.
 Puis elle a décidé de partager sa méthode vers un public plus large. Elle a ainsi aidé à se délivrer de leur propre enfermement émotionnel un très grand nombre de personnes sidérées par les violences de la guerre, abus sexuels, réfugiés, etc.
 Devant de tels résultats, Rehana a été invitée par bon nombre d’organisations, telles que *DOST Foundation* ou *OXFAM*, afin de diffuser la TBT à une plus grande échelle (Pakistan, Libye…).
-Elle a formé plus de 200 médecins, infirmiers, psychologistes et psychothérapeutes, lesquels sont en première ligne pour accueillir les personnes ayant subi des traumatismes.
+Elle a formé plus de 200 médecins, infirmiers, psychologues et psychothérapeutes, lesquels sont en première ligne pour accueillir les personnes ayant subi des traumatismes.
 
 
 ## 2. Qu’est-ce qu’un trauma ?
@@ -46,7 +46,7 @@ Selon le *Manuel Diagnostique et Statistique des Troubles Mentaux*, Édition Cin
 C’est une « *Mind/Body* » technique, c’est-à-dire qu’elle s’adresse à toute cette interaction entre l’émotion et le corps.
 La TBT s’adresse aux ressentis dans le corps, à la réponse corporelle, au niveau physique, pas au niveau logique ou rationnel du trauma. (Ce n’est pas un outil d’analyse du trauma, mais un « nettoyeur » des ressentis liés au trauma).
 
-La TBT est basée sur la stimulation très précise des points d’acuponcture, associée à certains outils de la PNL (Programmation Neurolinguistique)
+La TBT est basée sur la stimulation très précise des points d’acuponcture, associée à certains outils de la PNL (Programmation Neuro-Linguistique)
 
 La TBT est donc simple, efficace et les résultats sont profonds, instantanés et permanents.
 
@@ -56,7 +56,7 @@ La TBT est donc simple, efficace et les résultats sont profonds, instantanés e
 Nous ne pouvons pas changer une expérience vécue dans le passé, mais nous sommes capables d'en changer la structure, et par conséquent la façon dont le souvenir est remémoré ou revécu. La TBT découple radicalement les émotions de la mémoire traumatique, ainsi les réactions de stress associés à l’évènement sont anéanties.
 
 Cela correspond aux travaux du Docteur Brunet, qui dans un cadre médical, grâce au médicament le Propranolol (Bêta-bloquant), permet quasi le même résultat en 6 à 10 séances.
-Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire chimique.
+Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire lié à la chimique du Bêta-bloquant.
 
 
 ## 6. De la magie dans cette technique ?
@@ -77,7 +77,7 @@ Même si lorsque c’est un peu ce que l’on peut ressentir après avoir expér
 - En devenant praticien TBT (voir Formation pour devenir Praticien certifié TBT) Renseignement à <eft.tbt@gmail.com>.
 
 L’importance de s’adresser à un praticien certifié en TBT ?
-Il est important de vous adresser à un praticien certifié et reconnu par Rehana Webster, car nous parlons ici de traumatismes ainsi que de réactions émotionnelles qui peuvent être violentes !
+Il est important de vous adresser à un praticien certifié et reconnu par Rehana Webster, car nous parlons ici de traumatismes ainsi que de réactions émotionnelles qui peuvent être violentes (abréactions) !
 
 La TBT se diffuse très rapidement et à juste titre dans le milieu médical (Médecins, infirmiers, psychologues et psychiatres), ainsi que dans le domaine paramédical (Gestion de stress, des émotions…).
 
