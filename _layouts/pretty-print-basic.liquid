@@ -2,15 +2,8 @@
 
 ---
 <!DOCTYPE html>
-{% capture html-str %}
-	{{ content }}
-{% endcapture %}
+{% capture html-str %}{{ content }}{% endcapture %}{{ html-str | remove:'	' | remove:'
 
-{% comment %}
-{{ html-str | remove:'	' | strip_newlines }}
-{% endcomment %}
+' | strip_newlines }}
 
-{{ html-str | remove:'	' | remove:'
-
-' }}
 
