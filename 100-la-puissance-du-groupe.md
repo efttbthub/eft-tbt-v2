@@ -4,7 +4,7 @@ title: La puissance du groupe
 permalink: la-puissance-du-groupe/
 category: ateliers
 vignette:
-  image: images/groupes-300x300.jpg
+  image: images/icone-groupes.jpg
   titre-1: La puissance du groupe
   titre-2:
 published: true

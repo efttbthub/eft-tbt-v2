@@ -4,7 +4,7 @@ title: "EFT groups dans l’entreprise"
 permalink: eft-groups-dans-l-entreprise/
 category: applications
 vignette:
-  image: images/entreprise-300x300.jpg
+  image: images/icone-entreprise.jpg
   titre-1: EFT groups dans l’entreprise
   titre-2:
 published: true

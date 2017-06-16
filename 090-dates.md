@@ -4,7 +4,7 @@ title: Prochaines dates ?
 permalink: dates/
 category: ateliers
 vignette:
-  image: images/dates-300x300.jpg
+  image: images/icone-dates.jpg
   titre-1: Prochaines dates des ateliers de groupe
   titre-2:
 published: true

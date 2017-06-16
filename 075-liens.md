@@ -4,7 +4,7 @@ title: Liens
 permalink: liens/
 category: applications
 vignette:
-  image: images/liens-300x300.jpg
+  image: images/icone-liens.jpg
   titre-1: Liens
   titre-2:
 published: true

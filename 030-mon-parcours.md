@@ -11,7 +11,7 @@ published: true
 Passionnée depuis l’adolescence pour tout ce qui ne se voit pas, mais qui nous touche si profondément, *les Émotions*, j’ai choisi de m’investir professionnellement et de comprendre les différents processus cérébraux, physiologiques, émotionnels et comportementaux induits en situations de stress ressenti, et comment s’en extraire rapidement et efficacement.
 
 {: .img-align-left }
-![](../images/isabelle-levrat.jpg)
+![](../images/isabelle-levrat-213x217.jpg)
 
 C’est d’abord en tant que réflexologue diplômée de la *Bayly’s School of London* depuis 1992, puis en travaillant sur le système des méridiens d’acupression, que je me suis rendue compte de l’impact important du stress dans la relation corps-émotions.
 

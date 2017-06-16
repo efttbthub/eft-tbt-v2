@@ -4,7 +4,7 @@ title: EFT groups et sport
 permalink: eft-et-sport/
 category: applications
 vignette:
-  image: images/sport-300x300.jpg
+  image: images/icone-sport.jpg
   titre-1: EFT groups et sport
   titre-2:
 published: true

@@ -4,7 +4,7 @@ title: Comment se déroulent les ateliers de groupe ?
 permalink: ateliers-eft-tbt-groups/
 category: ateliers
 vignette:
-  image: images/comment-300x300.jpg
+  image: images/icone-comment.jpg
   titre-1: Comment se déroulent les ateliers de groupe ?
   titre-2:
 published: true

@@ -4,7 +4,7 @@ title: Apprendre et pratiquer la TBT
 permalink: apprendre-et-pratiquer-la-tbt/
 category: ateliers
 vignette:
-  image: images/apprendre-300x300.jpg
+  image: images/icone-apprendre.jpg
   titre-1: Apprendre et pratiquer la TBT
   titre-2:
 published: true
@@ -55,4 +55,4 @@ C’est pourquoi, que vous choisissiez de faire la formation en français, en an
 
 ## Dates et inscriptions
 
-[![Dates et inscriptions](../images/dates-300x300.jpg){:style="width:50px; text-align:center;"}](../dates/)
+[![Dates et inscriptions](../images/icone-dates.jpg){:style="width:50px; text-align:center;"}](../dates/)
