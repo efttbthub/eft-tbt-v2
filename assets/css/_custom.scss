@@ -1,7 +1,8 @@
 @charset "utf-8";
 
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400);
+@import url('http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic');
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 
 $contrast-color: hsl(201, 67%, 61%);
 
@@ -738,4 +739,10 @@ p {
 div.fb-wrapper {
 	text-align: center;
 	margin: 20px 0;
+}
+
+.manuscrit {
+	font-family: 'Indie Flower', cursive;
+	font-size: 150%;
+	color: #4C004C;
 }
