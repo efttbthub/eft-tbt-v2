@@ -12,7 +12,7 @@ published: true
 
 *Bonjour à vous et bienvenue sur mon site.*
 
-Je m’appelle Isabelle Levrat, et je suis formée à différentes techniques appartenant à la *psychologie énergétique*, telles que la *réflexologie*, *le brossage des méridiens*, les outils de la *PNL* ou *Programmation Neuro-Linguistique* et de *l’hypnose ericksonienne*, et à *l’EFT–TBT*. Je suis également formatrice dans la gestion du stress.
+Je m’appelle Isabelle Levrat, et je suis formée à différentes techniques appartenant à la *psychologie énergétique*, telles que la *réflexologie*, *le brossage des méridiens*, les outils de la *PNL* ou *Programmation Neuro-Linguistique* et de *l’hypnose ericksonienne*, et à *l’EFT–TBT*. Je suis également formatrice dans la gestion du stress et *TBT Trainer*.
 
 Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentation](mon-parcours/).
 
@@ -22,6 +22,8 @@ Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un group
 
 
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+
+[Apprendre et pratiquer la TBT](../apprendre-et-pratiquer-la-tbt/)
 
 {: .small .margin-top-70 }
 *Si vous suivez un traitement médicamenteux, seul votre médecin est compétent pour le modifier ou l'arrêter et ceci, même si vous constatez une nette amélioration de votre état.*
