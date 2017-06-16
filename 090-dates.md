@@ -15,72 +15,15 @@ published: true
 
 
 
-## [La Maison Verte — Romont](http://maison-verte.ch/)
+## Prochaines dates et lieux
 
-[Devant la gare de Romont, parking à disposition](https://goo.gl/maps/de1IP)
-
-
----
-
-Consultation individuelle – uniquement sur RDV – le vendredi de 13 h à 19 h
-
-EFT / TBT en groupe le vendredi de 19 h 30 à 21 h
-
-### Thèmes
-
-**« Relâcher cette colère qui me domine »**
-*Peu importe le contexte dans lequel cette émotion s’exprime ! Elle est présente. Cette séance permettra à chacun de comprendre comment cette émotion se construit et ses effets en nous, son rôle, et surtout comment la libérer.*
-Tarif : CHF 50.–
-
-**« Relâcher cette anxiété qui me domine »**
-*Peu importe le contexte dans lequel cette émotion s’exprime ! Elle est présente. Cette séance permettra à chacun de comprendre comment cette émotion se construit et ses effets en nous, son rôle, et surtout comment la libérer.*
-Tarif : CHF 50.–
-
-**« Douleurs physiques chroniques ou ponctuelles »**
- *Comprendre le langage de la douleur, et apprendre à s’en libérer.*
-Tarif : CHF 50.–
-
-Inscription obligatoire car places limitées par mail :
-
-<eft.tbt@gmail.com>
+- 21/22/23 juillet 2017 à Genève – Suisse
+- 1/2/3 septembre 2017 Haute-Savoie – France
+- 29/30 septembre 2017 et 1<sup>er</sup> octobre 2017 à Genève – Suisse
 
 
 
-
-
-
-
----
-
-## Genève
-
-Dimanche 10 avril 2016
-9 h 30 – 12 h
-**« Relâcher cette anxiété qui me domine »**
-*Peu importe le contexte dans lequel cette émotion s’exprime !*
-Tarif : CHF 120.–
-
----
-
-Mardi 19 avril 2016
-19 h – 21 h
-**« Faire la paix avec cette relation passée »**
-1<sup>ère</sup> partie
-Tarif : CHF 90.–
-
----
-
-Jeudi 28 avril 2016
-19 h – 21 h
-**« Faire la paix avec cette relation passée »**
-2<sup>e</sup> partie
-Tarif : CHF 90.–
-**Inscription obligatoire**
-
----
-
-
-# Inscriptions aux groupes
+# Inscriptions aux groupes
 
 Un acompte de CHF 30.– doit être acquitté pour que la réservation soit effective. Le solde sera versé à l’intervenante le jour de l’atelier.
 
@@ -91,6 +34,9 @@ Un e-mail de confirmation vous sera envoyé.
 *L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
 
 Durant les ateliers, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
+
+
+<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 
 
@@ -114,7 +60,6 @@ IBAN : CH74 0900 0000 1494 4584 1
 ### Contact
 
 <i class="fa fa-mobile"></i> Suisse : 078 628 37 82
-
 <i class="fa fa-mobile"></i> France : 06 72 22 09 12
 
 <eft.tbt@gmail.com>
