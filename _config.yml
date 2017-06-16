@@ -26,7 +26,6 @@ defaults:
 
 sass:
   sass_dir: assets/css
-  style: compressed
 
 gems:
   - jekyll-sitemap
