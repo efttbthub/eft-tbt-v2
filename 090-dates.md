@@ -11,7 +11,7 @@ published: true
 ---
 
 
-# Prochaines dates des ateliers de groupe
+# Prochaines dates des formations de groupe
 
 
 
@@ -36,9 +36,7 @@ Un e-mail de confirmation vous sera envoyé.
 Durant les ateliers, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
 
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
-
-
+<a href="http://
 
 ## Paiements
 
