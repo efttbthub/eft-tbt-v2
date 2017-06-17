@@ -36,7 +36,7 @@ Un e-mail de confirmation vous sera envoyé.
 Durant les ateliers, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
 
 
-<a href="http://
+<a href="http://eft.tbt@gmail.com
 
 ## Paiements
 
