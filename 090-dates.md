@@ -11,7 +11,7 @@ published: true
 ---
 
 
-# Prochaines dates des formations de groupe
+# Prochaines dates des formations TBT
 
 
 
@@ -23,20 +23,19 @@ published: true
 
 
 
-# Inscriptions aux groupes
+# Comment s'inscrire?
 
-Un acompte de CHF 30.– doit être acquitté pour que la réservation soit effective. Le solde sera versé à l’intervenante le jour de l’atelier.
+Envoyez un mail à  <eft.tbt@gmail.com> pour faire votre demande d'inscription, en stipulant la date et le lieu de la formation choisie.
+Vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription.
 
-L’acompte n’est pas remboursable. Si toutefois vous ne pouviez pas assister à l’atelier du jour J, vous pouvez vous inscrire à une autre séance, l’acompte déjà versé tenant lieu de confirmation d’inscription pour l’atelier de votre choix. Attention, les places sont limitées.
+ Attention, les places sont limitées.
 
-Un e-mail de confirmation vous sera envoyé.
 
 *L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
 
-Durant les ateliers, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
+Durant les formations, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
 
 
-<a href="http://eft.tbt@gmail.com
 
 ## Paiements
 
