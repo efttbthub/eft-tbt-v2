@@ -27,6 +27,8 @@ Cette technique fabuleuse de *l’EFT* n’est autre que le lien entre le corps 
 
 Je travaille actuellement pour le monde de l’entreprise et pour les particuliers que j’accompagne – individuellement ou en groupe – dans un processus basé sur la Confiance et le Respect, visant le Mieux-être, Autonomie, et Atteintes d’objectifs .
 
+Devenue TBT Trainer au printemps 2017, je diffuse cette technique de l'effondrement du trauma grâce aux formations de TBT, dans toute la Francophonie (France, Suise, Belgique...)
+
 {: .align-center }
 <i class="fa fa-envira" aria-hidden="true"></i>
 
