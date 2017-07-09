@@ -17,9 +17,8 @@ published: true
 
 ## Prochaines dates et lieux
 
-- 21/22/23 juillet 2017 à Genève – Suisse - Prix : 980 CH.-
-- 1/2/3 septembre 2017 Haute-Savoie – France
-- 29/30 septembre 2017 et 1<sup>er</sup> octobre 2017 à Genève – Suisse 
+- 1/2/3 septembre 2017 à Genève – Suisse  Prix : 980 CH.-
+- 29/30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie <http://www.chaletcoeurdesaravis.fr>  
 
 
 
