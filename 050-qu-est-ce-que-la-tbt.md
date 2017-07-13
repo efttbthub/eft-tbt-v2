@@ -89,7 +89,7 @@ Il est important de vous adresser à un praticien certifié et reconnu par Rehan
 
 La TBT se diffuse très rapidement et à juste titre dans le milieu médical (Médecins, infirmiers, psychologues et psychiatres), ainsi que dans le domaine paramédical (Gestion de stress, des émotions…).
 
-De plus , tous les TBT Trainers ont travaillé en direct avec Rehana Webster, et échangent régulièrement sur les cas et résultats dans leurs sessions.
+De plus, tous les TBT Trainers ont travaillé en direct avec Rehana Webster, et échangent régulièrement sur les cas et résultats dans leurs sessions.
 Si vous avez des questions concernant cette technique, osez poser vos questions à <eft.tbt@gmail.com>.
 Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <http://traumabustertechnique.com>.
 

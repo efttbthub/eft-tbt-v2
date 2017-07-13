@@ -13,23 +13,18 @@ published: true
 
 # Prochaines dates des formations TBT
 
-
-
 ## Prochaines dates et lieux
 
-- 1/2/3 septembre 2017 à Genève – Suisse  Prix : 980 CH.-
-- 29/30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie <http://www.chaletcoeurdesaravis.fr>  
+- 1,2 & 3 septembre 2017 à Genève – Suisse, Prix : 980 CHF.
+- 29 & 30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
 
 
+## Comment s’inscrire ?
 
-
-# Comment s'inscrire?
-
-Envoyez un mail à  <eft.tbt@gmail.com> pour faire votre demande d'inscription, en stipulant la date et le lieu de la formation choisie.
+Envoyez un mail à <eft.tbt@gmail.com> pour faire votre demande d’inscription, en stipulant la date et le lieu de la formation choisie.
 Vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription.
 
- Attention, les places sont limitées.
-
+***Attention, les places sont limitées.***
 
 *L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
 
@@ -39,7 +34,6 @@ Durant les formations, l’intervenante ne statuera en aucun cas sur vos différ
 
 ## Paiements
 
-
 ### Suisse — virement postal
 
 Levrat Isabelle
@@ -47,11 +41,14 @@ Levrat Isabelle
 Numéro de compte : 14-944584-1
 
 
-
 ### Suisse — virement bancaire
 
 IBAN : CH74 0900 0000 1494 4584 1
 
+
+### Conditions générales de vente
+
+![Conditions générales de vente](http://eft-tbt.com/fichiers/cgv-tbt.pdf)
 
 
 ### Contact
