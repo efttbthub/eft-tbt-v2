@@ -48,7 +48,7 @@ IBAN : CH74 0900 0000 1494 4584 1
 
 ### Conditions générales de vente
 
-![Conditions générales de vente](http://eft-tbt.com/fichiers/cgv-tbt.pdf)
+[Conditions générales de vente (PDF)](http://eft-tbt.com/fichiers/cgv-tbt.pdf)
 
 
 ### Contact
