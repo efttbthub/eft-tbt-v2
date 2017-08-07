@@ -103,8 +103,8 @@ Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <
 
 {: class="manuscrit" style="margin-top:50px;" }
 « All MY GRATITUDE FOR YOU REHANA! 
-You developped such an amazing tool! So many things to do with it. With TBT, we just push the limits of what was possible with PTS.
-Thankful»
+You developped such an amazing tool! So many things to do with it. With TBT, we just push the limits of what was possible with PTS: The TBT works with the memory structure, how the trauma was built itself at the neurons level: It uncouples radically the emotion from the memory! Great job!
+Thankful for your work»
 
 {: class="manuscrit align-right" }
 *Isabelle*
