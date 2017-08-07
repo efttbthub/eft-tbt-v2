@@ -102,10 +102,12 @@ Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <
 ![Bandeau traumabustertechnique.com](../images/rehana-webster-bandeau.jpg){: style="width:100%;" }
 
 {: class="manuscrit" style="margin-top:50px;" }
-« Tout homme est tiraillé entre deux besoins : le besoin de la Pirogue, c’est-à-dire du voyage, de l’arrachement à soi-même, et le besoin de l’Arbre, c’est-à-dire de l’enracinement, de l’identité. Et les hommes errent constamment entre ces deux besoins en cédant tantôt à l’un, tantôt à l’autre ; jusqu’au jour où ils comprennent que c’est de l’Arbre qu’on fabrique la Pirogue. »
+« All MY GRATITUDE FOR YOU REHANA! 
+You developped such an amazing tool! So many things to do with it. With TBT, we just push the limits of what was possible with PTS.
+Thankful»
 
 {: class="manuscrit align-right" }
-*Mythe mélanésien du Vanuatu*
+*Isabelle*
 
 
 ## SSPT (Symptôme de Stress Post Traumatique)
