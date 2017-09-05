@@ -23,10 +23,11 @@ published: true
 
 ## Prochaines dates et lieux
 
-- Genève - Samedi septembre 2017 - Prix : 150.-CHF
-         - Samedi  octobre 2017  - Prix : 150.-CHF
-         - Samedi  novembre 2017 - Prix : 150.-CHF
-         - Samedi  décembre 2017 - Prix : 150.-CHF
+- Genève 
+Samedi septembre 2017 - Prix : 150.-CHF
+Samedi  octobre 2017  - Prix : 150.-CHF
+Samedi  novembre 2017 - Prix : 150.-CHF
+Samedi  décembre 2017 - Prix : 150.-CHF
 
 
 ## Comment s’inscrire ?
