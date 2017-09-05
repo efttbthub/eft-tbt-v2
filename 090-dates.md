@@ -40,7 +40,7 @@ Samedi  décembre 2017 - Prix : 150.-CHF
 ## Comment s’inscrire ?
 
 Envoyez un mail à <eft.tbt@gmail.com> pour faire votre demande d’inscription, en stipulant la date et le lieu de la formation choisie.
-Ou inscrivez vous directement sur le site, réservez votre place et vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription.
+Ou inscrivez vous directement sur le site, réservez votre place et vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription. (Cliquez sur le bouton ci-dessous)
 
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
