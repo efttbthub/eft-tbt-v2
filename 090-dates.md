@@ -19,7 +19,14 @@ published: true
 - 29 & 30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
 
 
-# Prochaines dates des Ateliers Tapping
+# Prochains Ateliers Tapping
+"Sciez une planche avec un marteau ou plantez un clou avec une scie...."
+
+Que vous soyez débutant ou initié au Tapping, Isabelle vous propose un cursus de  4 jours (1 samedi par mois sur 4 mois), afin de vous l’enseigner et de vous faire profiter des clés d’un bon Tapping, pour obtenir les résultats que VOUS attendez ! 
+Cette technique du Tapping prend ses racines dans la synergie des deux grands courants de travail en thérapie : d’un côté la psychologie moderne (PNL – Programmation neuro-linguistique et coaching de vie) et de l’autre la médecine chinoise avec les points d’acupuncture. Toutes ces thérapies font preuve d’excellence à elles seules. Associez-les conjointement, et cela devient très puissant !
+Isabelle a choisi de s’appliquer à vous communiquer les clés d’un Tapping « qui marche », le comprendre sous tous ses différents aspects, pour ne plus penser qu’à l’utiliser spontanément 
+Passionnée d’EFT, elle vous donnera les clés, et bien d’autres pépites en matière de Tapping 
+
 
 ## Prochaines dates et lieux
 
