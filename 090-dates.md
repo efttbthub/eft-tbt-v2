@@ -19,6 +19,16 @@ published: true
 - 29 & 30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
 
 
+# Prochaines dates des Ateliers Tapping
+
+## Prochaines dates et lieux
+
+- Genève - Samedi septembre 2017 - Prix : 150.-CHF
+         - Samedi  octobre 2017  - Prix : 150.-CHF
+         - Samedi  novembre 2017 - Prix : 150.-CHF
+         - Samedi  décembre 2017 - Prix : 150.-CHF
+
+
 ## Comment s’inscrire ?
 
 Envoyez un mail à <eft.tbt@gmail.com> pour faire votre demande d’inscription, en stipulant la date et le lieu de la formation choisie.
@@ -26,7 +36,7 @@ Vous recevrez des documents vous indiquant la marche à suivre pour finaliser vo
 
 ***Attention, les places sont limitées.***
 
-*L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
+Le Tapping, tout comme *L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
 
 Durant les formations, l’intervenante ne statuera en aucun cas sur vos différents traitements médicaux, seul votre professionnel de santé pourra en convenir.
 
@@ -53,8 +63,8 @@ IBAN : CH74 0900 0000 1494 4584 1
 
 ### Contact
 
-<i class="fa fa-mobile"></i> Suisse : 078 628 37 82
-<i class="fa fa-mobile"></i> France : 06 72 22 09 12
+<i class="fa fa-mobile"></i> Suisse : 078 628 37 82 (uniquement le mardi et jeudi)
+<i class="fa fa-mobile"></i> France : 00 33 (0)6 72 22 09 12 (Depuis la Suisse, Whatsapp = appel ou message gratuit)
 
 <eft.tbt@gmail.com>
 
