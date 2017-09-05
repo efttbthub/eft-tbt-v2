@@ -35,6 +35,8 @@ Samedi  décembre 2017 - Prix : 150.-CHF
 Envoyez un mail à <eft.tbt@gmail.com> pour faire votre demande d’inscription, en stipulant la date et le lieu de la formation choisie.
 Ou inscrivez vous directement sur le site, réservez votre place et vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription.
 
+Inscriptions ici border="0" /></a>
+
 ***Attention, les places sont limitées.***
 
 Le Tapping, tout comme *L’EFT* et la *TBT* ne remplacent pas la consultation chez un professionnel de la santé.
