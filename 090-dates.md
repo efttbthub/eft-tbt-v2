@@ -31,10 +31,10 @@ Passionnée d’EFT, elle vous donnera les clés, et bien d’autres pépites en
 ## Prochaines dates et lieux
 
 - Genève 
-Samedi septembre 2017 - Prix : 150.-CHF
-Samedi  octobre 2017  - Prix : 150.-CHF
-Samedi  novembre 2017 - Prix : 150.-CHF
-Samedi  décembre 2017 - Prix : 150.-CHF
+Samedi 23 septembre 2017 - Prix : 150.-CHF
+Samedi 28 octobre 2017   - Prix : 150.-CHF
+Samedi 25 novembre 2017  - Prix : 150.-CHF
+Samedi 9 décembre 2017   - Prix : 150.-CHF
 
 
 ## Comment s’inscrire ?
