@@ -16,7 +16,7 @@ published: true
 ## Prochaines dates et lieux
 
 - 26-27-28 Janvier (Genève) – Suisse Prix : 980 CHF
-- 2-3-4 Mars (Paris)
+- 2-3-4 Mars (Paris) France Prix : 890€
 - 6-7-7 Avril  (Genève)
 - 25-26-27 Mai Rehana Webster TBT Developer - English (Genève)
 - 20-21-22 Juillet (Genève)
