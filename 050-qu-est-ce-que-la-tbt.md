@@ -60,7 +60,7 @@ La TBT est donc simple, efficace et les résultats sont profonds, instantanés e
 Nous ne pouvons pas changer une expérience vécue dans le passé, mais nous sommes capables d'en changer la structure, et par conséquent la façon dont le souvenir est remémoré ou revécu. La TBT découple radicalement les émotions de la mémoire traumatique, ainsi les réactions de stress associés à l’évènement sont anéanties.
 
 Cela correspond aux travaux du Docteur Brunet, qui dans un cadre médical, grâce au médicament le Propranolol (Bêta-bloquant), permet quasi le même résultat en 6 à 10 séances.
-Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire lié à la chimique du Bêta-bloquant.
+Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire lié à la chimie du Bêta-bloquant.
 
 [PDF Reconsolidation][3]
 
