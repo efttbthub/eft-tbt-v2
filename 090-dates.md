@@ -74,10 +74,6 @@ Numéro de compte : 14-944584-1
 IBAN : CH74 0900 0000 1494 4584 1
 
 
-### Conditions générales de vente
-
-[Conditions générales de vente (PDF)](http://eft-tbt.com/fichiers/cgv-tbt.pdf)
-
 
 ### Contact
 
