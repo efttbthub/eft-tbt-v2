@@ -11,12 +11,20 @@ published: true
 ---
 
 
-# Prochaines dates des formations TBT
+# Prochaines dates des formations TBT 2018
 
 ## Prochaines dates et lieux
 
-- 1,2 & 3 septembre 2017 à Genève – Suisse, Prix : 980 CHF.
-- 29 & 30 septembre 2017 et 1<sup>er</sup> octobre 2017 Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
+- 26-27-28 Janvier (Genève) – Suisse Prix : 980 CHF
+- 2-3-4 Mars (Paris)
+- 6-7-7 Avril  (Genève)
+- 25-26-27 Mai Rehana Webster TBT Developer - English (Genève)
+- 20-21-22 Juillet (Genève)
+- 17-18-19 Août (Genève).
+
+- 27-28-29 Avril  et 1-2-3 Juin Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
+
+
 
 
 # Prochains Ateliers Tapping
