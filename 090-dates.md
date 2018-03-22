@@ -15,14 +15,12 @@ published: true
 
 ## Prochaines dates et lieux
 
-- 26-27-28 Janvier (Genève) – Suisse Prix : 980 CHF
-- 2-3-4 Mars (Paris) France Prix : 890€
-- 6-7-7 Avril  (Genève)
-- 25-26-27 Mai Rehana Webster TBT Developer - English (Genève)
-- 20-21-22 Juillet (Genève)
-- 17-18-19 Août (Genève).
-
-- 27-28-29 Avril  et 1-2-3 Juin Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
+- 30-31 mars et 1er avril Hôtel du Théatre Yverdon – Suisse Prix : 980 CHF
+- 27-28-29 avril France Prix : 890€
+- 25-26-27 mai TBT workshop REHANA WEBSTER ENGLISH SPOKEN (Genève)
+- 1-2-3 juin France
+- 20-21-22 juillet France
+- 17-18-19 août France  Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
 
 
 
@@ -39,10 +37,7 @@ Passionnée d’EFT, elle vous donnera les clés, et bien d’autres pépites en
 ## Prochaines dates et lieux
 
 - Genève 
-Samedi 23 septembre 2017 - Prix : 150.-CHF
-Samedi 28 octobre 2017   - Prix : 150.-CHF
-Samedi 25 novembre 2017  - Prix : 150.-CHF
-Samedi 9 décembre 2017   - Prix : 150.-CHF
+En cours de réactualisation
 
 
 ## Comment s’inscrire ?
