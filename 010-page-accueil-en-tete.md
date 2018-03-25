@@ -18,4 +18,4 @@ Gérez le stress **facilement**
 ![](../images/Capture d’écran 2018-03-25 à 21.23.50.png)
 [APPRENDRE et PRATIQUER la TBT](../apprendre-et-pratiquer-la-tbt/)
 
-https://soundcloud.com/isabelle-levrat/audio-tbt-isabelle-levrat
+[https://soundcloud.com/isabelle-levrat/audio-tbt-isabelle-levrat]
