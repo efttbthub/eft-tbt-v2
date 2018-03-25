@@ -14,13 +14,13 @@ published: true
 
 # Qu’est-ce que la TBT ?
 
-La *TBT*, ou *Trauma Buster Technique* — *technique de l’effondrement du trauma*, est une extension de *l’EFT*.
+La *TBT*, ou *Trauma Buster Technique* — *technique de l’élimination du trauma*, est une extension de *l’EFT*.
 
 Méthode puissante pour changer les ressentis d’expériences traumatisantes, ou simplement choquantes, élimine les symptômes post-traumatiques.
 
 ## 1. Qu’est-ce que la Trauma Buster Technique, ou TBT ?
 
-Trauma Buster Technique est une technique d’effondrement du trauma. Cette méthode s’applique à réduire et/ou éliminer les symptômes de stress post-traumatique. Rehana Webster en est la fondatrice et développeuse.
+Trauma Buster Technique est une technique d’élimination du trauma. Cette méthode s’applique à réduire et/ou éliminer les symptômes de stress post-traumatique. Rehana Webster en est la fondatrice et développeuse.
 *Bachelor of Science, Biological Anthropology University of Toronto, Canada (1987), Master NLP, Master EFT, Trainer of Trainers EFT*. <http://traumabustertechnique.com/about-rehana/bio-expertise/>
 
 Alors qu’elle travaillait avec le système carcéral en Nouvelle Zélande, Rehana Webster a développé pendant plus de 10 ans l’efficacité de cet outil, en travaillant continuellement face à une population d’individus aux traumas majeurs et complexes.
