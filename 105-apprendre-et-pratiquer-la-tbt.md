@@ -18,16 +18,16 @@ published: true
 - Aux personnes côtoyant déjà dans leur entourage des victimes de traumatismes.
 
 ## Les objectifs de la formation
-- Savoir repérer un trauma, faire la distinction entre le contexte et le contenu de l’histoire, Comprendre comment fonctionne le Point Choc  du trauma.
+- Savoir repérer un trauma, faire la distinction entre le contexte et le contenu de l’histoire, Comprendre comment fonctionne le Point Choc du trauma.
 - Etre en mesure de proposer une progression adaptée à la structure émotionnelle de l’accompagné, tout en restant dans sa fenêtre de tolérance.
 - Apprendre à utiliser le protocole en 4 étapes de la TBT, sur soi-même et les autres
 A l’issue de la formation vous serez capable d’utiliser la technique TBT sur vous-même et sur les personnes que vous accompagnez.
 
 ## Programme de la formation
-- Qu’est-ce qu’un trauma, définition et ce qu’il se passe  dans le cerveau pendant un trauma ?
-Conséquences visibles et invisibles du trauma
+- Qu’est-ce qu’un trauma, définition et ce qu’il se passe dans le cerveau pendant un trauma ?
+- Conséquences visibles et invisibles du trauma
 - TBT : outil de gestion rapide du trauma
-Comment et pourquoi la TBT fonctionne
+- Comment et pourquoi la TBT fonctionne
 - Comment les mémoires des traumas s’enregistrent dans le corps
 - Gestion des abréactions
 - Procédure de la TBT et point choc
