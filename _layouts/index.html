@@ -25,7 +25,7 @@ layout: pretty-print-basic
 					<ul class="nav navbar-nav navbar-right">
 						<li><a class="page-scroll" href="#tf-presentation" >Présentation</a></li>
 						<li><a class="page-scroll" href="#tf-techniques"   >Techniques</a></li>
-						<li><a class="page-scroll" href="#tf-formation"    >Formation</a></li>
+						<li><a class="page-scroll" href="#tf-formations"    >Formations</a></li>
 						<li><a class="page-scroll" href="#tf-ateliers"     >Ateliers</a></li>
 						<li><a class="page-scroll" href="#tf-contact"      >Contact</a></li>
 					</ul>
@@ -125,38 +125,38 @@ layout: pretty-print-basic
 
 		<!--
 		========================================== -->
-		<div id="tf-formation" class="text-center hidde­n-print">
+		<div id="tf-formations" class="text-center hidde­n-print">
 			<div class="overlay">
 				<div class="container">
 					<div class="section-title center">
-						<h2>Les <strong>formation</strong></h2>
+						<h2>Les <strong>formations</strong></h2>
 						<div class="line">
 							<hr />
 						</div>
 					</div>
 					<div class="row">
-{% assign NbCat-formation = 0 %}
+{% assign NbCat-formations = 0 %}
 {% for thispage in site.pages %}
-	{% if thispage.category == "formation" %}
-		{% assign NbCat-formation = NbCat-formation | plus: 1 %}
+	{% if thispage.category == "formations" %}
+		{% assign NbCat-formations = NbCat-formations | plus: 1 %}
 	{% endif %}
 {% endfor %}
 
-{% if NbCat-formation ==  1 %}{% assign NbColSM-formation = 12 %}{% endif %}
-{% if NbCat-formation ==  2 %}{% assign NbColSM-formation = 6  %}{% endif %}
-{% if NbCat-formation ==  3 %}{% assign NbColSM-formation = 4  %}{% endif %}
-{% if NbCat-formation ==  4 %}{% assign NbColSM-formation = 3  %}{% endif %}
-{% if NbCat-formation ==  5 %}{% assign NbColSM-formation = 4  %}{% endif %}
-{% if NbCat-formation ==  6 %}{% assign NbColSM-formation = 4  %}{% endif %}
-{% if NbCat-formation ==  7 %}{% assign NbColSM-formation = 4  %}{% endif %}
-{% if NbCat-formation ==  8 %}{% assign NbColSM-formation = 3  %}{% endif %}
-{% if NbCat-formation ==  9 %}{% assign NbColSM-formation = 4  %}{% endif %}
-{% if NbCat-formation >= 10 %}{% assign NbColSM-formation = 3  %}{% endif %}
+{% if NbCat-formations ==  1 %}{% assign NbColSM-formations = 12 %}{% endif %}
+{% if NbCat-formations ==  2 %}{% assign NbColSM-formations = 6  %}{% endif %}
+{% if NbCat-formations ==  3 %}{% assign NbColSM-formations = 4  %}{% endif %}
+{% if NbCat-formations ==  4 %}{% assign NbColSM-formations = 3  %}{% endif %}
+{% if NbCat-formations ==  5 %}{% assign NbColSM-formations = 4  %}{% endif %}
+{% if NbCat-formations ==  6 %}{% assign NbColSM-formations = 4  %}{% endif %}
+{% if NbCat-formations ==  7 %}{% assign NbColSM-formations = 4  %}{% endif %}
+{% if NbCat-formations ==  8 %}{% assign NbColSM-formations = 3  %}{% endif %}
+{% if NbCat-formations ==  9 %}{% assign NbColSM-formations = 4  %}{% endif %}
+{% if NbCat-formations >= 10 %}{% assign NbColSM-formations = 3  %}{% endif %}
 
 {% for thispage in site.pages %}
-	{% if thispage.category == "formation" %}
+	{% if thispage.category == "formations" %}
 						<a href="{{ site.baseurl }}{{ thispage.url }}">
-							<div class="col-sm-{{ NbColSM-formation }}">
+							<div class="col-sm-{{ NbColSM-formations }}">
 								<div class="item">
 									<img src="{{ thispage.vignette.image }}" alt="..." class="img-circle" />
 									<h3>{{ thispage.vignette.titre-1 }}</h3>
