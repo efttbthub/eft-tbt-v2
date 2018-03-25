@@ -18,4 +18,4 @@ Gérez le stress **facilement**
 ![](../images/Capture d’écran 2018-03-25 à 21.23.50.png)
 [APPRENDRE et PRATIQUER la TBT](../apprendre-et-pratiquer-la-tbt/)
 
-*AUDIO TBT* : <<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/417904756&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>>
+*AUDIO TBT* : <<"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/417904756&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>>
