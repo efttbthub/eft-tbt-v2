@@ -21,13 +21,13 @@ J’ai installé plusieurs *espaces de mieux-être* dans le cadre d’entreprise
 
 Puis je me suis formée en *EFT* ou *Techniques de Libération Émotionnelle* (2014 – Diane et Alain von der Weid – *AAMET* – Genève, Suisse).
 
-Puis la *TBT* ou *Technique de l’effondrement du trauma* (2015 – *Rehana Webster*, Genève, Suisse).
+Puis la *TBT* ou *Technique de l’élimination du trauma* (2015 – *Rehana Webster*, Genève, Suisse).
 
-Cette technique fabuleuse de *l’EFT* n’est autre que le lien entre le corps et la conscience, l’accès direct aux croyances, l’appropriation de notre vie tant désirée !
+Cette technique fabuleuse de *Tapping* n’est autre que le lien entre le corps et la conscience, l’accès direct aux croyances, l’appropriation de notre vie tant désirée !
 
 Je travaille actuellement pour le monde de l’entreprise et pour les particuliers que j’accompagne – individuellement ou en groupe – dans un processus basé sur la Confiance et le Respect, visant le Mieux-être, Autonomie, et Atteintes d’objectifs .
 
-Devenue TBT Trainer au printemps 2017, je diffuse cette technique de l'effondrement du trauma grâce aux formations de TBT, dans toute la Francophonie (France, Suisse, Belgique...)
+Devenue TBT Trainer au printemps 2017, je diffuse cette technique de l'élimination du trauma grâce aux formations de TBT, dans toute la Francophonie (France, Suisse, Belgique...)
 
 {: .align-center }
 <i class="fa fa-envira" aria-hidden="true"></i>
