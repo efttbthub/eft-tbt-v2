@@ -6,13 +6,13 @@ published: true
 
 #### Isabelle Levrat
 
-## Consultante et formatrice dans la gestion de stress
+## Consultante et formatrice spécialisée dans l'élimination des traumas et troubles post-traumatiques
 
 <hr /><div class="clearfix"></div>
 
 *Bonjour à vous et bienvenue sur mon site.*
 
-Je m’appelle Isabelle Levrat, et je suis formée à différentes techniques appartenant à la *psychologie énergétique*, telles que la *réflexologie*, *le brossage des méridiens*, les outils de la *PNL* ou *Programmation Neuro-Linguistique* et de *l’hypnose ericksonienne*, et à *l’EFT–TBT*. Je suis également formatrice dans la gestion du stress et *TBT Trainer*.
+Je m’appelle Isabelle Levrat, et je suis formée à différentes techniques appartenant à la *psychologie énergétique*, telles que la *réflexologie*, *le brossage des méridiens*, les outils de la *PNL* ou *Programmation Neuro-Linguistique* et de *l’hypnose ericksonienne*, et à *l’EFT–TBT*. Je suis également formatrice certifiée de la Trauma-Buster-Technique / *TBT Trainer*.
 
 Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentation](mon-parcours/).
 
@@ -38,7 +38,7 @@ Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un group
 
 *Bonjour à vous et bienvenue sur mon site.*
 
-Je m’appelle Isabelle Levrat et je suis *réflexologue* formée à l’*intelligence relationnelle*, aux outils de la *PNL*, à l’*hypnose éricksonienne* et certifiée *formatrice, praticienne EFT–TBT*.
+Je m’appelle Isabelle Levrat et je suis *réflexologue* formée à l’*intelligence relationnelle*, aux outils de la *PNL*, à l’*hypnose éricksonienne* et certifiée *formatrice TBT Trainer, praticienne EFT–TBT*.
 
 Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentation](intervenante).
 
