@@ -16,14 +16,14 @@ Je m’appelle Isabelle Levrat, et je suis formée à différentes techniques ap
 
 Vous pouvez découvrir mon parcours plus en détail sur [ma page de présentation](mon-parcours/).
 
-Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un groupe en EFT-TBT sur un thème précis, ou pour tout renseignement, il vous suffit de m’envoyer un message à l’adresse suivante : [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com).
+Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un groupe en EFT-TBT sur un thème précis, ou pour tout renseignement, il vous suffit de m’envoyer un message à l’adresse suivante : [contact@tbt-formation.fr](mailto:contact@tbt-formation.fr).
 
 *Isabelle*
 
 
 <a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
-[Apprendre et pratiquer la TBT](../apprendre-et-pratiquer-la-tbt/)
+[Apprendre et pratiquer la TBT](../https://www.tbt-formation.fr/formation-tbt/)
 
 {: .small .margin-top-70 }
 *Si vous suivez un traitement médicamenteux, seul votre médecin est compétent pour le modifier ou l'arrêter et ceci, même si vous constatez une nette amélioration de votre état.*
