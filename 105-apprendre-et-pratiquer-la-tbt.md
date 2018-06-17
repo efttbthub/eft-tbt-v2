@@ -11,6 +11,7 @@ published: true
 ---
 
 # Apprendre et pratiquer la TBT
+## Informations complètes sur <https://www.tbt-formation.fr/formation-tbt/>
 
 ## À qui s’adresse cette formation ?
 - À toutes les personnes désirant se libérer définitivement de leurs ressentis négatifs liés aux expériences choquantes et/ou traumatisantes vécues.
@@ -55,7 +56,7 @@ Aucun prérequis demandé.
 - Inscription officielle sur le site de Rehana Webster [www.traumabustertechnique.com](http://www.traumabustertechnique.com/)
 
 ## Les formateurs « TBT Trainer »
-Praticiens en TBT depuis plusieurs années, chaque TBT Trainer est devenu expert en résolution de traumas et chocs émotionnels grâce à sa pratique professionnelle en la matière. Chaque Trainer a été choisi par Rehana Webster en personne, en fonction de son savoir-faire et de son savoir-être.
+Praticiens en TBT depuis plusieurs années, chaque TBT Trainer est devenu expert en résolution de traumas et chocs émotionnels grâce à sa pratique professionnelle en la matière. 
 
 ## Qualité de la formation
 Rehana Webster créatrice et développeuse de cette méthode, tient à ce que l’enseignement du TBT soit rigoureux, approprié et structuré.
