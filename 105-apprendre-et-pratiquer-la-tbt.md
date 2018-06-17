@@ -11,7 +11,8 @@ published: true
 ---
 
 # Apprendre et pratiquer la TBT
-## Informations complètes sur <https://www.tbt-formation.fr/formation-tbt/>
+## Informations completes sur
+<https://www.tbt-formation.fr/formation-tbt/>
 
 ## À qui s’adresse cette formation ?
 - À toutes les personnes désirant se libérer définitivement de leurs ressentis négatifs liés aux expériences choquantes et/ou traumatisantes vécues.
