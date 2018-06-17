@@ -17,6 +17,8 @@ published: true
 La *TBT*, ou *Trauma Buster Technique* — *technique de l’élimination du trauma*, est une extension de *l’EFT*.
 
 Méthode puissante pour changer les ressentis d’expériences traumatisantes, ou simplement choquantes, élimine les symptômes post-traumatiques.
+Plus d'informations sur site de la Trauma Buster Technique en Français
+<https://www.tbt-formation.fr/>
 
 ## 1. Qu’est-ce que la Trauma Buster Technique, ou TBT ?
 
