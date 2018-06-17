@@ -11,7 +11,7 @@ published: true
 ---
 
 # Apprendre et pratiquer la TBT
-## Informations completes sur
+## Informations supplémentaires sur
 <https://www.tbt-formation.fr/formation-tbt/>
 
 ## À qui s’adresse cette formation ?
