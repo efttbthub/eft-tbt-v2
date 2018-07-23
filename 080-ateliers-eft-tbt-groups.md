@@ -33,5 +33,3 @@ Cette technique de plus en plus utilisée à travers le monde entier : [*L’EF
 Cette technique est surprenante lorsqu’elle est utilisée sur les enfants, ou par les enfants eux-mêmes !
 
 [TBT](../qu-est-ce-que-la-tbt/) : *Trauma Buster Technique* — *technique de l’effondrement du trauma*, est une technique dérivée de *l’EFT*. La *TBT* va être utilisé plus spécifiquement sur des chocs, drames, traumas.
-
-[En lire plus](../mon-parcours/)

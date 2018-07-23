@@ -16,9 +16,9 @@ Centre Périnatalité et Famille
 5 chemin Edouard-Tavan
 1206 Genève
 
-<i class="fa fa-mobile"></i> Suisse : 078 628 37 82
+<i class="fa fa-mobile"></i> Suisse : 078 628 37 82 (le mardi et jeudi)
 
-<i class="fa fa-mobile"></i> France : 06 72 22 09 12
+<i class="fa fa-mobile"></i> France : 06 72 22 09 12 (utilise WhatsApp)
 
 [eft.tbt@gmail.com](mailto:eft.tbt@gmail.com)
 

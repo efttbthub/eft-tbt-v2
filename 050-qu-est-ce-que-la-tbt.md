@@ -14,13 +14,15 @@ published: true
 
 # Qu’est-ce que la TBT ?
 
-La *TBT*, ou *Trauma Buster Technique* — *technique de l’effondrement du trauma*, est une extension de *l’EFT*.
+La *TBT*, ou *Trauma Buster Technique* — *technique de l’élimination du trauma*, est une extension de *l’EFT*.
 
 Méthode puissante pour changer les ressentis d’expériences traumatisantes, ou simplement choquantes, élimine les symptômes post-traumatiques.
+Plus d'informations sur site de la Trauma Buster Technique en Français
+<https://www.tbt-formation.fr/>
 
 ## 1. Qu’est-ce que la Trauma Buster Technique, ou TBT ?
 
-Trauma Buster Technique est une technique d’effondrement du trauma. Cette méthode s’applique à réduire et/ou éliminer les symptômes de stress post-traumatique. Rehana Webster en est la fondatrice et développeuse.
+Trauma Buster Technique est une technique d’élimination du trauma. Cette méthode s’applique à réduire et/ou éliminer les symptômes de stress post-traumatique. Rehana Webster en est la fondatrice et développeuse.
 *Bachelor of Science, Biological Anthropology University of Toronto, Canada (1987), Master NLP, Master EFT, Trainer of Trainers EFT*. <http://traumabustertechnique.com/about-rehana/bio-expertise/>
 
 Alors qu’elle travaillait avec le système carcéral en Nouvelle Zélande, Rehana Webster a développé pendant plus de 10 ans l’efficacité de cet outil, en travaillant continuellement face à une population d’individus aux traumas majeurs et complexes.
@@ -60,7 +62,7 @@ La TBT est donc simple, efficace et les résultats sont profonds, instantanés e
 Nous ne pouvons pas changer une expérience vécue dans le passé, mais nous sommes capables d'en changer la structure, et par conséquent la façon dont le souvenir est remémoré ou revécu. La TBT découple radicalement les émotions de la mémoire traumatique, ainsi les réactions de stress associés à l’évènement sont anéanties.
 
 Cela correspond aux travaux du Docteur Brunet, qui dans un cadre médical, grâce au médicament le Propranolol (Bêta-bloquant), permet quasi le même résultat en 6 à 10 séances.
-Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire lié à la chimique du Bêta-bloquant.
+Grâce aux *tapping*, la stimulation des points d’acupression produit la biochimie NATURELLE du cerveau-corps. La réparation en est quasi instantanée (environ 1 heure pour un trauma simple), et surtout sans effet secondaire lié à la chimie du Bêta-bloquant.
 
 [PDF Reconsolidation][3]
 
@@ -89,7 +91,7 @@ Il est important de vous adresser à un praticien certifié et reconnu par Rehan
 
 La TBT se diffuse très rapidement et à juste titre dans le milieu médical (Médecins, infirmiers, psychologues et psychiatres), ainsi que dans le domaine paramédical (Gestion de stress, des émotions…).
 
-De plus , tous les TBT Trainers ont travaillé en direct avec Rehana Webster, et échangent régulièrement sur les cas et résultats dans leurs sessions.
+De plus, tous les TBT Trainers ont travaillé en direct avec Rehana Webster, et échangent régulièrement sur les cas et résultats dans leurs sessions.
 Si vous avez des questions concernant cette technique, osez poser vos questions à <eft.tbt@gmail.com>.
 Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <http://traumabustertechnique.com>.
 
@@ -102,10 +104,12 @@ Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <
 ![Bandeau traumabustertechnique.com](../images/rehana-webster-bandeau.jpg){: style="width:100%;" }
 
 {: class="manuscrit" style="margin-top:50px;" }
-« Tout homme est tiraillé entre deux besoins : le besoin de la Pirogue, c’est-à-dire du voyage, de l’arrachement à soi-même, et le besoin de l’Arbre, c’est-à-dire de l’enracinement, de l’identité. Et les hommes errent constamment entre ces deux besoins en cédant tantôt à l’un, tantôt à l’autre ; jusqu’au jour où ils comprennent que c’est de l’Arbre qu’on fabrique la Pirogue. »
+« All MY GRATITUDE FOR YOU REHANA! 
+You developped such an amazing tool! So many things to do with it. With TBT, we just push the limits of what was possible with PTS: The TBT works with the memory structure, how the trauma was built itself at the neurons level: It uncouples radically the emotion from the memory! Great job!
+Thankful for your work»
 
 {: class="manuscrit align-right" }
-*Mythe mélanésien du Vanuatu*
+*Isabelle*
 
 
 ## SSPT (Symptôme de Stress Post Traumatique)
