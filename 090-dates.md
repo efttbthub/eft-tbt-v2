@@ -11,16 +11,12 @@ published: true
 ---
 
 
-# Prochaines dates des formations TBT 2018
+# Prochaines dates des formations TBT 201
 
 ## Prochaines dates et lieux
 
-- 30-31 mars et 1er avril Hôtel du Théatre Yverdon – Suisse Prix : 980 CHF
-- 27-28-29 avril France Prix : 890€
-- 25-26-27 mai TBT workshop REHANA WEBSTER ENGLISH SPOKEN (Genève)
-- 1-2-3 juin France
-- 20-21-22 juillet France
-- 17-18-19 août France  Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
+Voir dates sur www.tbt-formation.fr
+France  Haute-Savoie<br/><http://www.chaletcoeurdesaravis.fr><br/>[Chalet Cœur des Aravis (PDF)](http://eft-tbt.com/fichiers/chalet-coeur-des-aravis.pdf)
 
 
 
@@ -45,7 +41,6 @@ En cours de réactualisation
 Envoyez un mail à <eft.tbt@gmail.com> pour faire votre demande d’inscription, en stipulant la date et le lieu de la formation choisie.
 Ou inscrivez vous directement sur le site, réservez votre place et vous recevrez des documents vous indiquant la marche à suivre pour finaliser votre inscription. (Cliquez sur le bouton ci-dessous)
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 ***Attention, les places sont limitées.***
 
