@@ -21,7 +21,6 @@ Pour [une consultation individuelle](qu-est-ce-que-l-eft/), pour créer un group
 *Isabelle*
 
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 Apprendre et pratiquer la TBT : <https://www.tbt-formation.fr/formation-tbt/>
 
