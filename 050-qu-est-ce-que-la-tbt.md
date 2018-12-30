@@ -80,8 +80,7 @@ Même si lorsque c’est un peu ce que l’on peut ressentir après avoir expér
 ## 8. Comment pratiquer la TBT ?
 
 - En séance individuelle.
-
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
+Tel: 0033672220912
 
 - En groupe, sur des thèmes précis, communs, tels que victimes d’un même attentat, accident, ou catastrophe naturelle.
 - En devenant praticien TBT. Voir [la page “Apprendre et pratiquer la TBT”](../apprendre-et-pratiquer-la-tbt/).
@@ -97,7 +96,6 @@ Vous pouvez aussi contacter directement Rehana Webster (uniquement en anglais) <
 
 [Certification Isabelle Levrat, Geneva, Switzerland](http://traumabustertechnique.com/tbters/)
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
 ---
 
