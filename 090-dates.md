@@ -67,7 +67,6 @@ IBAN : CH74 0900 0000 1494 4584 1
 
 ### Contact
 
-<i class="fa fa-mobile"></i> Suisse : 078 628 37 82 (uniquement le mardi et jeudi)
 <i class="fa fa-mobile"></i> France : 00 33 (0)6 72 22 09 12 (Depuis la Suisse, Whatsapp = appel ou message gratuit)
 
 <eft.tbt@gmail.com>
