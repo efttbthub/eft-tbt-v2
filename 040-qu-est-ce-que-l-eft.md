@@ -41,9 +41,9 @@ Et en même temps, on tapote des points précis sur le visage et clavicule. C’
 
 ⇒ Consultation individuelle sur RDV uniquement.
 
-<a href="http://efttbt.datedechoix.com/" target="_blank"><img src="http://www.datedechoix.com/images/buttonFrench.gif" title="Prendre rendez-vous" alt="prise de rendez-vous en ligne" border="0" /></a>
 
-5 Chemin Edouard-Tavan, 1206 Genève : CHF 150.- la séance de 1 h 30 / Possibilité de faire la séance à domicile : CHF 180.- la séance de 1 h 30.
+
+5 Chemin Edouard-Tavan, 1206 Genève : CHF 150.- la séance de 1 h 30 / Possibilité de faire la séance à domicile : CHF 180.- la séance de 1 h 30/ 00 33 672220912
 
 
 # Le champ d’application de L’EFT est très vaste :
